@@ -393,7 +393,7 @@
         }
     }
 
-    // Load settings and run main
+    // Load settings and run main function
     let ReNXsettings;
     loadReNXsettings().then(() => {
         main();
