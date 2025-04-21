@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ReNXEnhanced
 // @namespace    https://github.com/origamiofficial/ReNXEnhanced
-// @version      1.0
+// @version      1.1
 // @description  A lightweight Tampermonkey script for importing and exporting NextDNS configuration profiles
 // @author       OrigamiOfficial
 // @match        https://my.nextdns.io/*
