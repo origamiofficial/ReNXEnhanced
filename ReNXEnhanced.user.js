@@ -6,6 +6,8 @@
 // @author       OrigamiOfficial
 // @match        https://my.nextdns.io/*
 // @grant        none
+// @license      MIT
+// @updateURL    https://raw.githubusercontent.com/origamiofficial/ReNXEnhanced/refs/heads/main/ReNXEnhanced.user.js
 // ==/UserScript==
 
 (function() {
